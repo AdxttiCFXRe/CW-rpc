@@ -1,0 +1,11 @@
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\bin\Debug\CW-rpc.exe.config
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\bin\Debug\CW-rpc.exe
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\bin\Debug\CW-rpc.pdb
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW-rpc.csproj.AssemblyReference.cache
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW-rpc.csproj.SuggestedBindingRedirects.cache
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW_rpc.Properties.Resources.resources
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW-rpc.csproj.GenerateResource.cache
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW-rpc.csproj.CoreCompileInputs.cache
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW-rpc.exe
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW-rpc.pdb
+C:\Users\adxtt\source\repos\CW-rpc\CW-rpc\obj\Debug\CW_rpc.Form1.resources
